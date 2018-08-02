@@ -1,8 +1,11 @@
 # beckend
-updated with phpmyadmin database [localhost]
+updated with phpmyadmin database [localhost] => sigup form
+
+welcomepage is not styled yet [only content added].
 
 install XAMPP;
-open phpmyadmin -> create a database 'hbtutimes' and then creatr a table 'users '
+other folder like icon and images you have to add from frondend repo.
+open phpmyadmin -> create a database 'hbtutimes' and then create a table 'users'
 with the column like given in img file in master directory then you are good to go
 
-/* put these files and other folders in xampp/htdocs/  to run .*/
+/* put these files and otherfolders, in xampp/htdocs/  to run .*/
