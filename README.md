@@ -1,4 +1,4 @@
-# beckend
+# backend
 updated with phpmyadmin database [localhost] => sigup form
 
 welcomepage is not styled yet [only content added].
